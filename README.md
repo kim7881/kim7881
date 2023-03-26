@@ -1,6 +1,10 @@
 
 <div align="center">
-Kim7881 Github!	
+<h1>Kim7881 Github!</h1>	
+</div>
+<br><br>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=500&width=435&lines=I'm+FrontEnd+Developer" alt="Typing SVG" /></a>
 </div>
 <br><br>
 
@@ -18,6 +22,7 @@ Kim7881 Github!
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 	<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white" />
 	<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
+	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
 </div>
 <br>
 <div align="center">Tools</div>
@@ -26,6 +31,15 @@ Kim7881 Github!
 	<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
+</div>
+<br>
+<div align="center">Contact</div>
+<br>
+<div align="center">
+	<img src="https://img.shields.io/badge/rlawls7881@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white" />
 </div>
 <br>
 <div align="center">
