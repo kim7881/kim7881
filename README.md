@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1>Kim7881 Github!</h1>	
+<h1>📔 Kim7881 Github!</h1>	
 </div>
 <br><br>
 <div align="center">
@@ -8,9 +8,9 @@
 </div>
 <br><br>
 
-<div align="center">Tech Stack</div>
+<div align="center">📒 Tech Stack</div>
 <br>
-<div align="center">Platforms & Languages</div>
+<div align="center">📕 Platforms & Languages</div>
 <br>
 <div align="center">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -25,7 +25,7 @@
 	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
 </div>
 <br>
-<div align="center">Tools</div>
+<div align="center">📗 Tools</div>
 <br>
 <div align="center">
 	<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white" />
@@ -36,7 +36,7 @@
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
 </div>
 <br>
-<div align="center">Contact</div>
+<div align="center">📭 Contact</div>
 <br>
 <div align="center">
 	<img src="https://img.shields.io/badge/rlawls7881@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white" />
