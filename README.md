@@ -19,7 +19,7 @@
 	<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
 	<img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=Vuetify&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
+<!-- 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" /> -->
 	<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white" />
 	<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
 	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
